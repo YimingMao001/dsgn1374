@@ -1,0 +1,58 @@
+body{
+	background-color: pink;
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+ 	font-weight: nomal;
+ 	line-height: 1.4
+ 	font-size: 16px;
+ 	max-width: 36em;
+ 	margin-right: auto;
+ 	margin-left: auto;
+ 	padding: 8px;
+}
+
+h1 {
+	color:white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px 
+    border: 5px solid green;
+}
+
+h2 {
+	color:white;
+	font size:  22px;
+	font-weight: bold;
+	border: 4px dotted blue;
+}
+
+h3	{
+	color:white;
+	font size:  16px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+h4 {
+	color:white;
+	font size:  16px;
+	font-weight:bold;
+	text-transform: uppercase
+	margin-top: 32px;
+	margin-bottom: 6px;
+}
+p  {
+	margin-top: 0;
+	margin-bottom: 16px;
+}
+
+em  {
+	color: red;
+	display: block;
+	margin-bottom:  32px;
+	text-align: center;
+}
+
+ul {
+
+}
