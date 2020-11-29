@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<head>
+	<title >Type</title>
+	<h1 align="center">CSS rules to specify fa</h1>
+	<link rel="stylesheet" href="styles.css">
+	Bold 700
+Almost before we knew it, we had left the ground.
+Extra-bold 800
+Almost before we knew it, we had left the ground.
+Black 900
+Almost before we knew it, we had left the ground.
+Variable axes
+Learn more about variable fonts 
+Weight
+300
+900
+Almost before we knew it, we had left the ground.
+Weight: 400
+Glyphs
+ABCČĆDĐEFGHIJKLMNOPQRSŠTUVWXYZŽabcčćdđefghijklmnopqrsštuvwxyzžĂÂÊÔƠƯăâêôơư1234567890‘?’“!”(%)[#]{@}/&\<-+÷×=>®©$€£¥¢:;,.*
+About Sansita Swashed
+An ornate version of Sansita, with curvy uppercase letters, certain alternative lowercase letters and new ligatures.
+
+Sansita Swashed is designed by Pablo Cosgaya (Omnibus-Type) and developed by Aldo De Losa. To contribute, please see github.com/Omnibus-Type/Sansita-Swashed.
+
+Designer
+
+Omnibus-Type
+Principal design
+License
+These fonts are licensed under the Open Font License.
+
+You can use them freely in your products & projects - print or digital, commercial or otherwise. However, you can't sell the fonts on their own.
+
+This isn't legal advice, please consider consulting a lawyer and see the full license for all details.
+
+Popular pairings with Sansita Swashed
+Roboto
+Sansita Swashed
+Roboto
+Open Sans
+Montserrat
+Lato
+Oswald
+The spectacle before us was indeed sublime.
+Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.
+
+TermsPrivacy
+Twitter GitHub
+Selected family
+Review
+Embed
+To embed a font, copy the code into the <head> of your html
+
+<link>@import
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Sansita+Swashed:wght@900&display=swap" rel="stylesheet">
+</head>
+<body>
+	<main>
+		<p class="high-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in felis ac eros pulvinar tincidunt id at eros. Ut maximus nisl et volutpat viverra. Cras feugiat turpis quis diam sagittis sagittis. In quis pharetra diam, facilisis convallis massa. Pellentesque ac vestibulum lectus. Fusce nec mi aliquam, <span class="color-yellow">cursus ipsum eget, egestas lacus. Aenean scelerisque, tellus eget tempor efficitur,</span> mi sapien blandit diam, sed convallis arcu mi quis lorem. Cras quis dignissim lorem, id maximus mi. Sed lobortis interdum dui, eget sodales quam ultricies in. Duis ut feugiat urna.</p>
+
+		<p class= hight-light-align>Quisque scelerisque, lacus nec vehicula interdum, elit nisl viverra velit, sed semper quam nisl eget justo. Vestibulum id pretium felis, bibendum facilisis risus. Donec sagittis bibendum orci, sit amet pharetra odio facilisis scelerisque. Cras accumsan, lacus vitae laoreet lacinia, sem justo efficitur ligula, eu efficitur diam sapien ac massa. <span class="color-yellow">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ante lacus, auctor eu cursus et, eleifend nec felis. In aliquet ullamcorper nibh, id fermentum diam ullamcorper sit amet.</span> Nam in metus et mi faucibus cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+
+		<p>Mauris consectetur placerat nunc, vitae vehicula metus consectetur at. Nam porttitor ligula lacus, vel aliquet mi hendrerit ac. Pellentesque et dictum ex. <span class="color-yellow">Aliquam pulvinar ultrices accumsan. Mauris ultrices, elit vitae ornare mattis, purus urna blandit sem, quis pharetra diam elit ut mi.</span> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam arcu turpis, vehicula ac dolor et, tempor blandit nunc. Curabitur vel enim vitae velit vehicula aliquet. <span class="color-yellow">Nam urna augue, elementum sed felis non, dictum suscipit arcu. Sed rhoncus eu ante in tincidunt. Donec ultrices eget massa et porttitor. Aenean sagittis mattis lacus non varius. Aenean ac urna quis ante lacinia pulvinar eget sed ligula.</span></p>
+	
+	</main>
+</body>
+/* Type */
+
+body {
+	background-color: pink;
+	color: black;
+	line-height: 1.5;
+    font-size: 1.5em;
+   font-family: 'Raleway', sans-serif;
+    font-weight: 150
+}
+.color-yellow {
+	color: yellow;
+	font-weight:250
+}
+.other-font {
+	font-family: 'Lemonada', cursive;
+}
+.high-light { 
+	text-decoration: underline; 
+	font-weight:300
+ }
+ .hight-light-align {
+ 	text-align: center;
+ 	font-weight: 400
+ }
+/* Type */
+
+body {
+	background-color: pink;
+	color: black;
+	line-height: 1.5;
+    font-size: 1.5em;
+   font-family: 'Raleway', sans-serif;
+    font-weight: 150
+}
+.color-yellow {
+	color: yellow;
+	font-weight:250
+}
+.other-font {
+	font-family: 'Lemonada', cursive;
+}
+.high-light { 
+	text-decoration: underline; 
+	font-weight:300
+ }
+ .hight-light-align {
+ 	text-align: center;
+ 	font-weight: 400
+ }
